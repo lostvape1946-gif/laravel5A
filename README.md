@@ -1,7 +1,7 @@
 # Laravel Perpustakaan
 
-Nama : NAMA_ANDA
-NPM  : NPM_ANDA
+Nama : ARIEF_RAHMAN
+NPM  : 2410010631
 
 ## Gambar Relasi Basisdata
 
